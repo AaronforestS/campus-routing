@@ -1,4 +1,4 @@
 package com.ogoqjl.campus.routing.dataTransferObject;
 
-public record FromToNodes(int nodeFrom, int nodeTo) {
+public record FromToNodes(Integer nodeFrom, Integer nodeTo) {
 }

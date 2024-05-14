@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ogoqjl</groupId>
-    <artifactId>campus_routing</artifactId>
+    <artifactId>campus_routing_backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>campus_routing</name>
     <description>campus_routing</description>
@@ -45,10 +45,8 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org-spatialite</groupId>
-            <artifactId>spatialite-jdbc</artifactId>
-            <version>4-3-0</version>
-            <scope>compile</scope>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
     </dependencies>
 
