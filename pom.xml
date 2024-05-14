@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ogoqjl</groupId>
     <artifactId>campus_routing_backend</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>campus_routing</name>
     <description>campus_routing</description>
     <properties>
